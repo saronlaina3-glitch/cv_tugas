@@ -20,7 +20,7 @@ if page == "About Me":
     
     with col_img:
         # Menampilkan foto profil (jalur relatif langsung ke file)
-        st.image("ftprof.png", width=180)
+        st.image("CV_WEBSITE/ftprof.png", width=180)
     
     st.markdown("---")
     st.subheader("Summary")

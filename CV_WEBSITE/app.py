@@ -22,6 +22,9 @@ if page == "About Me":
         "I am an aspiring developer and technology enthusiast "
         "who enjoys building innovative solutions and learning new technologies."
     )
+with col_img:
+        # Menampilkan foto profil kamu (pastikan nama filenya cocok)
+        st.image("CV_WEBSITE/foto_profil.jpg", width=180)
 
     st.markdown("---")
 

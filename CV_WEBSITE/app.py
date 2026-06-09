@@ -24,7 +24,9 @@ if page == "About Me":
     )
 with col_img:
         # Menampilkan foto profil kamu (pastikan nama filenya cocok)
-        st.image("CV_WEBSITE/foto_profil.jpg", width=180)
+        with col_img:
+    # Pastikan namanya sesuai dengan file aslimu: ftprof.png
+    st.image("CV_WEBSITE/ftprof.png", width=180)
 
     st.markdown("---")
 

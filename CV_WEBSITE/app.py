@@ -68,5 +68,5 @@ elif page == "Contact":
     st.write("Feel free to reach out to me through any of the platforms below:")
     
     st.write("📧 **Email:** sharon24trse@mahasiswa.pcr.ac.id")
-    st.write("🔗 **LinkedIn:** [linkedin.com/in/username](https://linkedin.com)")
+    st.write("🔗 **Instagram:** [https://www.instagram.com/ssharonn_11?igsh=MWMzbTZ2eDZsYXN5bA%3D%3D&utm_source=qr)")
     st.write("💻 **GitHub:** [github.com/username](https://github.com)")
